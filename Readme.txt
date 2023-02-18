@@ -27,9 +27,9 @@ User: root@localhost
 Server charset: UTF-8 Unicode (utf8mb4)
 
 Panduan konfigurasi aplikasi 
-1. Clone project dari repository github ( https://github.com/Raldienpr325/SekawanMedia ) 
+1. Clone project dari repository github ( https://github.com/Raldienpr325/SekawanMediaFull ) 
 2. buat database yang nantinya akan dikonfigurasi dengan project laravel 
-3. npm install , composer install
+3. composer install, npm install
 4. cp .env.example .env lalu Edit bagian database di file .env
 5. php artisan key:generate , lalu php artisan serve
 
